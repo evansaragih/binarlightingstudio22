@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/example/public_html/2022
+    - export DEPLOYPATH=/home/devevanm/public_html/2022
     - /bin/cp -R images $DEPLOYPATH
