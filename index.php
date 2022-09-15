@@ -1,3 +1,3 @@
 <?php
-echo "Test";
-// header("location: http://dev-evan.masuk.web.id/public/");
+// echo "Test";
+header("location: http://dev-evan.masuk.web.id/public/");
